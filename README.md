@@ -34,7 +34,7 @@ The Angular calendar HeatMap visualizes time series data, with each data point r
 
 ## Bubble HeatMap Chart
 
-The Angular [bubble HeatMap](https://ej2.syncfusion.com/angular/documentation/heatmap-chart/bubble-heatmap?utm_source=github&utm_medium=listing&utm_campaign=angular-heatmap-chart-github-samples) Chart, or the matrix bubble chart, visualizes data using variations in bubble attributes such as size, color, and sector.
+The Angular [Bubble HeatMap](https://ej2.syncfusion.com/angular/documentation/heatmap-chart/bubble-heatmap?utm_source=github&utm_medium=listing&utm_campaign=angular-heatmap-chart-github-samples) Chart, or the matrix bubble chart, visualizes data using variations in bubble attributes such as size, color, and sector.
 
 ## Customizable axis
 
